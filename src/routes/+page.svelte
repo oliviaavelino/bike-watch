@@ -27,7 +27,7 @@
     import * as d3 from "d3";
     import mapboxgl from "mapbox-gl";
     import "../../node_modules/mapbox-gl/dist/mapbox-gl.css";
-    mapboxgl.accessToken = "pk.eyJ1Ijoic29ncmVlbiIsImEiOiJjbHVwc280cm0xOHU0MmxtcnE2ZGdveXF5In0.hbXdn_hdpt1MX0gubJtbLw";
+    mapboxgl.accessToken = "pk.eyJ1Ijoib2F2ZWxpbm8iLCJhIjoiY2x2ZngybHdkMGI0NzJra2hxajU0dzF4aSJ9.aL5JC8YN3qfUO2SvBRRLwg";
     import { onMount } from "svelte";
 
     let stations = [];
